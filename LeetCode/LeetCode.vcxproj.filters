@@ -24,12 +24,18 @@
     <ClInclude Include="001.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="009.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="001_test.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="009_test.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
