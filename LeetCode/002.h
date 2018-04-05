@@ -1,4 +1,4 @@
-#pragma once
+ï»¿#pragma once
 struct ListNode {
 	int val;
 	ListNode *next;
@@ -45,7 +45,7 @@ public:
 	//	return head->next;
 	//}
 
-	//±ðÈËµÄ×ö·¨
+	//åˆ«äººçš„åšæ³•
 	ListNode *addTwoNumbers(ListNode *l1, ListNode *l2) {
 		ListNode dummy(0), *tail = &dummy;
 		for (div_t sum{ 0, 0 }; sum.quot || l1 || l2; tail = tail->next) {
