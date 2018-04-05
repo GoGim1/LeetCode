@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LeetCode", "LeetCode\LeetCode.vcxproj", "{BF5A6558-1171-4815-AD7B-9E6BC6D66348}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LeetCode_test", "LeetCode_test\LeetCode_test.vcxproj", "{56FA92CB-C0D4-4558-BABB-38E18BC58A9E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{BF5A6558-1171-4815-AD7B-9E6BC6D66348}.Release|x64.Build.0 = Release|x64
 		{BF5A6558-1171-4815-AD7B-9E6BC6D66348}.Release|x86.ActiveCfg = Release|Win32
 		{BF5A6558-1171-4815-AD7B-9E6BC6D66348}.Release|x86.Build.0 = Release|Win32
+		{56FA92CB-C0D4-4558-BABB-38E18BC58A9E}.Debug|x64.ActiveCfg = Debug|x64
+		{56FA92CB-C0D4-4558-BABB-38E18BC58A9E}.Debug|x64.Build.0 = Debug|x64
+		{56FA92CB-C0D4-4558-BABB-38E18BC58A9E}.Debug|x86.ActiveCfg = Debug|Win32
+		{56FA92CB-C0D4-4558-BABB-38E18BC58A9E}.Debug|x86.Build.0 = Debug|Win32
+		{56FA92CB-C0D4-4558-BABB-38E18BC58A9E}.Release|x64.ActiveCfg = Release|x64
+		{56FA92CB-C0D4-4558-BABB-38E18BC58A9E}.Release|x64.Build.0 = Release|x64
+		{56FA92CB-C0D4-4558-BABB-38E18BC58A9E}.Release|x86.ActiveCfg = Release|Win32
+		{56FA92CB-C0D4-4558-BABB-38E18BC58A9E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
