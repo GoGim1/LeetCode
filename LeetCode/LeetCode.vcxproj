@@ -152,12 +152,14 @@
   <ItemGroup>
     <ClInclude Include="001.h" />
     <ClInclude Include="002.h" />
+    <ClInclude Include="003.h" />
     <ClInclude Include="009.h" />
     <ClInclude Include="stdafx.h" />
     <ClInclude Include="targetver.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="002_test.cpp" />
+    <ClCompile Include="003_test.cpp" />
     <ClCompile Include="009_test.cpp" />
     <ClCompile Include="stdafx.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>

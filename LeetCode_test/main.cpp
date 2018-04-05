@@ -11,6 +11,8 @@ int main()
 	//vector<int>();
 	//vector<int>{};
 	//vector<int>{ 1, 2 };
-	string str = to_string(-1);
+	//string str = to_string(-1);
+	string s = "sasda";
+	auto chars = s[2];
 	system("pause");
 }
