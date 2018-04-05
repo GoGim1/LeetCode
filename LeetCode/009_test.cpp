@@ -27,5 +27,11 @@ namespace LeetCode
 			int TestNum = 1;
 			Assert::IsTrue(s.isPalindrome(TestNum) == true);
 		}
+		TEST_METHOD(TestMethod4)
+		{
+			Solution s;
+			int TestNum = 1221;
+			Assert::IsTrue(s.isPalindrome(TestNum) == true);
+		}
 	};
 }
