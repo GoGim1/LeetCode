@@ -19,7 +19,7 @@ namespace LeetCode
 		TEST_METHOD(Test007_2)
 		{
 			Solution s;
-			Assert::IsTrue((s.reverse(123) == 0));
+			Assert::IsTrue((s.reverse(123) == 321));
 		}
 	};
 }
